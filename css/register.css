@@ -1,0 +1,129 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header {
+    height: 84px;
+    border-bottom: 2px solid #b1191a;
+}
+.logo {
+    width: 175px;
+    height: 58px;
+    padding-top: 15px;
+}
+.reg_form {
+    height: 520px;
+    border: 1px solid #dfdfdf;
+    margin-top: 20px;
+}
+.reg_form h3 {
+    height: 42px;
+    line-height: 42px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333;
+    border-bottom: 1px solid #dddddd;
+    background-color: #ececec;
+    padding: 0 10px;
+}
+.pdl {
+    float: right;
+    font-size: 14px;
+    color: #333333;
+}
+.pdl a {
+    color: #c81623;
+}
+.reg_icn {
+    width: 566px;
+    margin: 50px auto;
+}
+.reg_icn ul li label {
+    display: inline-block;
+    width: 89px;
+    text-align: right;
+}
+.reg_icn ul li {
+    margin-bottom: 21px;
+}
+.anquan {
+    margin-top: -20px;
+    margin-left: 190px;
+    font-size: 12px;
+    color: #b2b2b2;
+}
+.reg_icn ul li .ruo {
+    display: inline-block;
+    height: 15px;
+    line-height: 15px;
+    background-color: #de1111;
+    padding: 0 10px;
+    color: #fff;
+}
+.reg_icn ul li .zhong {
+    display: inline-block;
+    height: 15px;
+    line-height: 15px;
+    background-color: #40b83f;
+    padding: 0 10px;
+    color: #fff;
+}
+.reg_icn ul li .qiang {
+    display: inline-block;
+    height: 15px;
+    line-height: 15px;
+    background-color: #f79100;
+    padding: 0 10px;
+    color: #fff;
+}
+.gege {
+    width: 240px;
+    height: 34px;
+  border: 1px solid #999999;
+}
+.reg_icn span {
+    font-size: 12px;
+    color: #df3033;
+}
+.reg_icn ul li i {
+    margin-left: 5px;
+}
+.reg_icn ul li input {
+    vertical-align: middle;
+}
+.fu {
+    margin-top: 42px;
+    font-size: 12px;
+    color: #4d4d4d;
+}
+.fu input {
+    width: 15px;
+    height: 15px;
+    margin:0 5px 0 95px;
+}
+.fu a {
+    padding-left: 5px;
+    color: #1ba1e6;
+}
+.tub {
+    width: 200px;
+    height: 34px;
+    color: #fff;
+    background-color: #c81623;
+    line-height: 34px;
+    text-align: center;
+    margin: 20px 100px;
+}
+.copyright {
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+    padding-top: 21px;
+}
+.copyright a {
+    margin: 0 10px;
+}
+.copyright p {
+    padding-top: 10px;
+    line-height: 20px;
+}
